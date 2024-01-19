@@ -5,7 +5,7 @@ const els = {
 
 const meta = {
   title: ["title", "og:title", "twitter:title"],
-  desc: ["title", "og:title", "twitter:title"],
+  desc: ["description", "og:description", "twitter:description"],
   img: ["og:image", "twitter:image"],
   theme: ["theme-color"],
 }
